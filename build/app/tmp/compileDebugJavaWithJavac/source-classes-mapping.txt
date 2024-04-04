@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/savaa/BuildConfig.java
+ com.example.savaa.BuildConfig
+com/example/savaa/MainActivity.java
+ com.example.savaa.MainActivity
